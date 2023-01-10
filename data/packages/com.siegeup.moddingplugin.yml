@@ -1,7 +1,7 @@
 name: com.siegeup.moddingplugin
 displayName: SiegeUp Modding Plugin
 description: This package provides basic tools and instruments for creating SiegeUp mods.
-repoUrl: 'https://github.com/SiegeUp/SiegeUp-Modding-Plugin'
+repoUrl: 'https://github.com/SiegeUp/SiegeUp.ModdingPlugin'
 parentRepoUrl: null
 licenseSpdxId: MIT
 licenseName: MIT License
